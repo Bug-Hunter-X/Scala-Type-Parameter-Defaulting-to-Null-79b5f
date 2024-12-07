@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Scala when dealing with type parameters and default constructor values.  The issue arises when attempting to provide a default null value for a type parameter.  The provided solution illustrates a safer and more idiomatic approach.
